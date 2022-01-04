@@ -3,10 +3,10 @@ Covidhelp Project made in Django Framework
 
 
 
-**OUTPUT :- **
+**OUTPUT :-** 
 
 
-**FRONTEND :- **
+**FRONTEND :-**
 
 
 Default Output Page :- 
@@ -26,7 +26,7 @@ Output when State = "Maharashtra" , City = "Mumbai" and Facility = "Oxygen Beds"
 
 
 
-**BACKEND :- **
+**BACKEND :-** 
 
 
 Login into Admin Panel :- 
